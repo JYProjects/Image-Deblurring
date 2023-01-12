@@ -1,3 +1,9 @@
 # Image Deblurring
-Convolutional Autoencoders to remove blur and restore high-quality images, created from scratch by applying a Gaussian
-filter on CIFAR-10 dataset.
+Keras implementation of the Convolutional network to to remove gaussian blur. 
+
+## Authors
+	Johnny Agosto 
+	Chiara Malizia 
+
+This implementation has been developed as a final project work for the Summer School “Artificial Intelligence: Algorithms and Applications” held by the University of Nankai (Summer 2021).
+
