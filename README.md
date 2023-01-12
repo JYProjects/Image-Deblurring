@@ -1,7 +1,7 @@
 # Image Deblurring
 Keras implementation of the Convolutional network to to remove gaussian blur. 
 
-## Authors
+Authors
 	[Johnny Agosto](https://github.com/JayEnEn) 
 	[Chiara Malizia](https://github.com/YukiKya) 
 
